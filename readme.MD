@@ -1,4 +1,4 @@
-###################
-Alternatif Machine Learning
-###################
-Sistem Pakar Diagnosa Mesin Motor dan Coding Error
+
+## Alternatif Machine Learning
+
+<center>Sistem Pakar Diagnosa Mesin Motor dan Coding Error</center>
